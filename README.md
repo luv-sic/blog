@@ -8,3 +8,5 @@
 * [图解HTTP-读书笔记](https://github.com/richardyou/blog/issues/6)
 * [基本数据结构与算法——数据结构篇](https://github.com/richardyou/blog/issues/7)
 * [JavaScript中的异步和任务轮询](https://github.com/richardyou/blog/issues/8)
+* [Nodejs与Java 在C层方面的对比](https://github.com/richardyou/blog/issues/9)
+* [pass-by-reference or pass-by-value,module.exports or exports?](https://github.com/richardyou/blog/issues/10)
