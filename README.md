@@ -10,3 +10,5 @@
 * [JavaScript中的异步和任务轮询](https://github.com/richardyou/blog/issues/8)
 * [Nodejs与Java 在C层方面的对比](https://github.com/richardyou/blog/issues/9)
 * [pass-by-reference or pass-by-value,module.exports or exports?](https://github.com/richardyou/blog/issues/10)
+* [前端面试的一些问题](https://github.com/richardyou/blog/issues/11)
+
