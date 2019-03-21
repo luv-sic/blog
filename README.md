@@ -11,4 +11,6 @@
 * [Nodejs与Java 在C层方面的对比](https://github.com/richardyou/blog/issues/9)
 * [pass-by-reference or pass-by-value,module.exports or exports?](https://github.com/richardyou/blog/issues/10)
 * [前端面试的一些问题](https://github.com/richardyou/blog/issues/11)
-
+* [如何从零开发一个前端库](https://github.com/richardyou/blog/issues/12)
+* [前端自动化测试](https://github.com/richardyou/blog/issues/13)
+* [《Composing Program》chapter 1 读书笔记](https://github.com/richardyou/blog/issues/14)
