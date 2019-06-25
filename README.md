@@ -14,3 +14,5 @@
 * [如何从零开发一个前端库](https://github.com/richardyou/blog/issues/12)
 * [前端自动化测试](https://github.com/richardyou/blog/issues/13)
 * [《Composing Program》chapter 1 读书笔记](https://github.com/richardyou/blog/issues/14)
+
+#### [更多文章](https://github.com/luv-sic/blog/issues)
